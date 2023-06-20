@@ -1,0 +1,6 @@
+{
+  "pdpsku": {
+    "component": "PDPSKU",
+    "composition": "children"
+  }
+}
